@@ -1,0 +1,79 @@
+.cell {
+    border: 1px solid black;
+}
+.grid {
+    display: flex;
+}
+.container {
+    width: 1000px;
+    height: 1000px;
+}
+.forest {
+    background-image: url("../images/forrest.jpg");
+    background-size: contain;
+}
+.mountains {
+    background-image: url("../images/mountains.png");
+    background-size: contain;
+}
+.lake {
+    background-image: url("../images/lake.png");
+    background-size: contain;
+}
+.normal {
+    background-image: url("../images/normal.png");
+    background-size: contain;
+}
+.hills {
+    background-image: url("../images/hills.png");
+    background-size: contain;
+}
+.archer {
+    background-image: url("../images/archer.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 80%;
+}
+.cavalry {
+    background-image: url("../images/cavalry.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 80%;
+}
+.crossbowman {
+    background-image: url("../images/crossbowman.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 80%;
+}
+.spearmen {
+    background-image: url("../images/spearmen.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 80%;
+}
+.infantry {
+    background-image: url("../images/infantry.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 80%;
+}
+.catapult {
+    background-image: url("../images/catapult.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 80%;
+}
+.engineer {
+    background-image: url("../images/engineer.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 80%;
+}
